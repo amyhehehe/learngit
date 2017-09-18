@@ -4,3 +4,4 @@ Git has a mutale index called stage
 Git tracks changes of files.
 hahaha 
 hehehe
+Creating a new branch is quick
